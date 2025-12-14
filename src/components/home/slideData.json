@@ -1,0 +1,28 @@
+
+[
+    { "id": 1,
+      "image":"/images/slideimg1.jpg",
+      "title": "High-quality furniture",
+      "content": "We provide quality products at an affordable price."
+      },
+    { "id": 2,
+      "image":"/images/slideimg2.jpg",
+      "title": "Sophistication in simplicity",
+      "content": "The beauty of simplicity but meticulousness in every detail. "
+      },
+    { "id": 3,
+      "image":"/images/slideimg3.jpg",
+      "title": "Sharp in every detail",
+      "content": "We provide quality products at an affordable price."
+      },
+    { "id": 4,
+      "image":"/images/slideimg4.jpg",
+      "title": "Environmental friendliness",
+      "content": "Our products are environmentally and consumer friendly"
+      },
+    { "id": 5,
+      "image":"/images/slideimg5.jpg",
+      "title": "Bring warmth to your home",
+      "content": "We bring you a warm, harmonious space.."
+      }
+    ]
