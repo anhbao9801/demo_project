@@ -65,12 +65,8 @@ There should be a “Contact Us” page which will have the Address of the Compa
 </ol>
 
  ## Members of group
- ### Leader : Nguyen Duc Linh `Student1477171`
+ ### Leader :NGUYEN THAI BAO
 #### Members:
-Trần Nhựt Huy `Student1477551` </br>
-Nguyễn Anh Vũ `Student1477471` </br>
-Trần Việt Khôi `Student1477470` </br>
-
 
 
 
